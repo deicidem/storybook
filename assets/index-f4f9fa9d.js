@@ -1,0 +1,1 @@
+import{V as t}from"./vue.esm-0af12569.js";import{f as a}from"./_plugin-vue2_normalizer-e841c916.js";const e={absolute:Boolean,bottom:Boolean,fixed:Boolean,left:Boolean,right:Boolean,top:Boolean};function n(o=[]){return t.extend({name:"positionable",props:o.length?a(e,o):e})}const i=n();export{i as P,n as f};
